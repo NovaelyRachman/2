@@ -36,8 +36,9 @@ function bayar() {
                 //Console.WriteLine(stock[i] + " x " + name[i]);
                 document.write(stock[i] + " x " + name[i]);
             }
-
         }
     }
 }
 console.log(bayar);
+const coba = "hgsjda";
+console.log(coba);
